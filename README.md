@@ -1,4 +1,4 @@
-# CodeAlpha Task 4 – Sentiment Analysis
+# CodeAlpha Task 3 – Sentiment Analysis
 
 A Machine Learning and Natural Language Processing project that analyzes customer reviews and classifies them as Positive or Negative using Logistic Regression and VADER sentiment analysis.
 
