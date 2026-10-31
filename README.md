@@ -100,7 +100,7 @@ G-Task-3/
 Clone the repository:
 
 ```bash
-git clone https://github.com/adhithyavasan5-tech/CodeAlpha_Sentiment_Analysis.git
+git clone https://github.com/midula122007-tech/CodeAlpha_Sentiment_Analysis.git
 cd CodeAlpha_Sentiment_Analysis
 ```
 
