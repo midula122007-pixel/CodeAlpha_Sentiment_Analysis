@@ -151,6 +151,6 @@ Dataset: UCI Machine Learning Repository – Sentiment Labelled Sentences.
 
 ## Author
 
-**Adhithya**
+**Grish Midula**
 
-GitHub: [adhithyavasan5-tech](https://github.com/midula122007-tech)
+GitHub: [midula122007-tech](https://github.com/midula122007-tech)
